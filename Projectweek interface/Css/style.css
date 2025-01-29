@@ -1,0 +1,10 @@
+@font-face {
+    font-family: comic sans;
+    src: url('../Fonts/6680-fontps.ttf');
+}
+body {
+    background-color: #f0f0f0;
+    font-family: comic sans;
+    margin: 0;
+    padding: 0;
+}
